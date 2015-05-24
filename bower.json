@@ -1,0 +1,10 @@
+{
+	"name": "jquery-year-picker",
+	"version": "1.0",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/devendrant/jquery-year-picker.git"
+	},
+	"dependencies": {
+	}
+}
